@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city2" label="City2" language="en" table="x_287490_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city2</element>
+            <help/>
+            <hint/>
+            <label>City2</label>
+            <language>en</language>
+            <name>x_287490_iplookup_ipaddressinfo</name>
+            <plural>City2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-22 10:02:08</sys_created_on>
+            <sys_id>496d30732f785010b719de1a2799b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City2</sys_name>
+            <sys_package display_value="IPLookup" source="x_287490_iplookup">b45c68ef2fbc1010b719de1a2799b63e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">b45c68ef2fbc1010b719de1a2799b63e</sys_scope>
+            <sys_update_name>sys_documentation_x_287490_iplookup_ipaddressinfo_city2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-22 10:02:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
